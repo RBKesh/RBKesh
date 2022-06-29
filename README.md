@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RBKesh
-- 👀 I’m interested in learning Python, Java or any widely used programming languages!
+- 🤓 I'm a young, curious learner who strives to apply coding to various aspects of our lives.
 - 🌱 I’m currently learning Java and have experience with Python and HTML.
 - 💞️ I’m looking to collaborate on simple apps, or anything really!
 - 📫 You can reach me on Discord at _TTG#4993.
